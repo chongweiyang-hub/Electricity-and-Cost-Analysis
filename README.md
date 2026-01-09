@@ -27,6 +27,8 @@ We wanted to see this in action, so we made a scatter plot comparing actual vers
 Looking back at the results, it’s clear that electricity consumption and household size are strong predictors. The high R-squared and low MAE make that obvious, and the scatter plot backs it up. Still, those outliers tell me there’s room to grow. If I added more data—say, a list of appliances, how well the home’s insulated, or local weather trends—I could boost the model’s accuracy and catch those unusual cases.
 In the end, this predictive analysis shows that even a simple model can deliver reliable, useful insights into electricity costs, as long as it’s based on real-life behavior. With more variables, future versions could make forecasts even sharper, which would help both households and energy providers make smarter decisions.
 
+Google Colab Link:https://colab.research.google.com/drive/1G0MWy0NK-plytsClqwQuVAmUGfu96PP4?usp=sharing#scrollTo=6nDs3Cec0y8S
+
 
 
 
